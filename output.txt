@@ -1,0 +1,16 @@
+=======================================
+Gradient Descent Method
+=======================================
+Values of theta using Gradient Descent Method
+theta_0: 340412.65957446524
+theta_1: [110631.05011541]
+theta_2: [-6649.47410738]
+price prediction for a 1650-square-foot house with 3 bedrooms using gradient descent: [293081.46437046]
+=======================================
+Normal Equation Method
+=======================================
+Values of theta using Normal equation in the format [[theta_0][theta_1][theta_2]]
+[[89597.9095428 ]
+ [  139.21067402]
+ [-8738.01911233]]
+price prediction for a 1650-square-foot house with 3 bedrooms using normal equations: [293081.46433489]
